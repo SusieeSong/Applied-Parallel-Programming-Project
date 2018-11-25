@@ -1,7 +1,7 @@
 # Applied-Parallel-Programming-Project
-Purpose of the project:
-Get practical experience by using, profiling, and modifying MXNet, a standard open-source neural-network framework.
-Demonstrate command of CUDA and optimization approaches by designing and implementing an optimized neural-network convolution layer forward pass.
+Purpose of the project:  
+Get practical experience by using, profiling, and modifying MXNet, a standard open-source neural-network framework.  
+Demonstrate command of CUDA and optimization approaches by designing and implementing an optimized neural-network convolution layer forward pass.  
 
 # Mp1 
 Implementation of a simple vector addition kernel and its associated host code
